@@ -1,0 +1,26 @@
+[
+    {
+        "isSelected": false,
+        "productCover": "https://img13.360buyimg.com/babel/s320x320_jfs/t1/27/17/13672/119452/5bd45ab6E0f7ba01b/a6f60c12ae0f2271.jpg!cc_320x320.webp",
+        "productName": "索尼（SONY）Alpha 7R III",
+        "productInfo": "全画幅微单数码相机 SEL24105G镜头套装 (约4240万有效像素5轴防抖 a7RM3/a7r3)",
+        "productPrice": 39999,
+        "productCount": 1830
+    },
+    {
+        "isSelected": true,
+        "productCover": "https://img11.360buyimg.com/babel/s320x320_jfs/t1/114597/27/7287/72258/5ec293aaE35631c9f/323ddbec35c21f63.jpg!cc_320x320.webp",
+        "productName": "小米平衡车定制版Ninebot",
+        "productInfo": "九号平衡车燃动版 智能电动体感车（白）",
+        "productPrice": 1099,
+        "productCount": 544
+    },
+    {
+        "isSelected": true,
+        "productCover": "https://img30.360buyimg.com/babel/s320x320_jfs/t1/118549/14/8881/191639/5ed3cbc5E18855c78/b461583310cc7e37.jpg!cc_320x320.webp",
+        "productName": "Apple Watch Series 5",
+        "productInfo": "智能手表（GPS款 40毫米深空灰色铝金属表壳 黑色运动型表带 MWV82CH/A)",
+        "productPrice": 5380,
+        "productCount": 350
+    }
+]
